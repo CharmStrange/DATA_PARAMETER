@@ -1,2 +1,3 @@
 # PARAMETER
-obtaining applying skills on Machine Learning &amp; Deep Learning
+
+The point is, deriving the best `PARAMETER`s.
