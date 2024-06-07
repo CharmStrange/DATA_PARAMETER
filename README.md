@@ -25,3 +25,7 @@ Lists of what I organized & recorded :
 - [**Kalman state estimation Algorithm**](https://blog.naver.com/zetmond/223407800086)
 - [**System Model Parameters Tuning**]()
 - [**EKF**]()
+
+...
+
+- [**Jacobian Matrix**](https://blog.naver.com/zetmond/223472246240)
