@@ -18,6 +18,8 @@ Lists of what I organized & recorded :
 - [**Gradient Descent in Classification**](https://blog.naver.com/zetmond/223459265542)
 - [**Mathematical flow of K-Classification**](https://blog.naver.com/zetmond/223468061702)
 
+- [Beginning of TensorFlow](https://blog.naver.com/zetmond/223473977343)
+
 ...
 
 #### Kalman Filter
