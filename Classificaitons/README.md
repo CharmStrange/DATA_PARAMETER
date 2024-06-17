@@ -1,4 +1,4 @@
-`Input Data` & `W` --> \$a$ --> $Softmax$ --> `Output Data : Y`
+[ `Input Data` & `W` --> \$a$ --> $Softmax$ --> `Output Data : Y` ]
 
 This is simple layer and process of Classification.
 
