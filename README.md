@@ -19,7 +19,7 @@ Lists of what I organized & recorded :
 - [**Mathematical flow of K-Classification**](https://blog.naver.com/zetmond/223468061702)
 
 - [**Beginning of TensorFlow**](https://blog.naver.com/zetmond/223473977343)
-
+- [**Model Parameters & Hyper Parameters**](https://blog.naver.com/zetmond/223487145900)
 ...
 
 #### Kalman Filter
