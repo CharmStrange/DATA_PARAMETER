@@ -20,6 +20,7 @@ Lists of what I organized & recorded :
 
 - [**Beginning of TensorFlow**](https://blog.naver.com/zetmond/223473977343)
 - [**Model Parameters & Hyper Parameters**](https://blog.naver.com/zetmond/223487145900)
+- 
 ...
 
 #### Kalman Filter
