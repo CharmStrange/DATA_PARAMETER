@@ -31,3 +31,10 @@ Lists of what I organized & recorded :
 ...
 
 - [**Jacobian Matrix**](https://blog.naver.com/zetmond/223472246240)
+
+---
+---
+---
+references 
+- https://wikidocs.net/book/7887
+- [Deep Learning Bible]()
