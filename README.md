@@ -37,4 +37,4 @@ Lists of what I organized & recorded :
 ---
 references 
 - https://wikidocs.net/book/7887
-- [Deep Learning Bible](Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning (2017, MIT) (1).pdf)
+- [Deep Learning Bible](https://github.com/CharmStrange/PARAMETER/blob/main/Ian%20Goodfellow%2C%20Yoshua%20Bengio%2C%20Aaron%20Courville%20-%20Deep%20Learning%20(2017%2C%20MIT)%20(1).pdf)
