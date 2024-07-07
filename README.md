@@ -10,6 +10,7 @@ Lists of what I organized & recorded :
 - [**Analytical solution of Gradient Descent(LR)**](https://blog.naver.com/zetmond/223421603732)
 - [**K-fold Cross Validation**](https://blog.naver.com/zetmond/223437408700)
 - [**Regularization of Linear Regression**](https://blog.naver.com/zetmond/223441770803)
+- [**Parametric Model & Non-parametric Model**](https://blog.naver.com/zetmond/223498514196)
 
 ...
 
