@@ -4,6 +4,8 @@ The point is, deriving the best `PARAMETER`s.
 
 Lists of what I organized & recorded :
 
+#### Machine Learning & Deep Learning
+
 - [**Parametric Model & Non-parametric Model**](https://blog.naver.com/zetmond/223498514196)
 - [**Model Parameters & Hyper Parameters**](https://blog.naver.com/zetmond/223487145900)
 - [**precision and recall & ROC curve**](https://blog.naver.com/zetmond/223500484807)
@@ -31,7 +33,7 @@ Lists of what I organized & recorded :
 - [**Beginning of TensorFlow**](https://blog.naver.com/zetmond/223473977343)
 
 
-...
+---
 
 #### Kalman Filter
 - [**System Model**](https://blog.naver.com/zetmond/223427423302)
