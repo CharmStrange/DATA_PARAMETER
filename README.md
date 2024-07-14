@@ -31,7 +31,8 @@ Lists of what I organized & recorded :
 ...
   
 - [**Beginning of TensorFlow**](https://blog.naver.com/zetmond/223473977343)
-
+- [presentation1]()
+- [presentation2]()
 
 ---
 
