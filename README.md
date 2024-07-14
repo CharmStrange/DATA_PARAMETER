@@ -31,8 +31,8 @@ Lists of what I organized & recorded :
 ...
   
 - [**Beginning of TensorFlow**](https://blog.naver.com/zetmond/223473977343)
-- [presentation1](https://github.com/CharmStrange/Playground/blob/main/presentatation1.md)
-- [presentation2](https://github.com/CharmStrange/Playground/blob/main/presentatation2.md)
+- ([presentation1](https://github.com/CharmStrange/Playground/blob/main/presentatation1.md))
+- ([presentation2](https://github.com/CharmStrange/Playground/blob/main/presentatation2.md))
 
 ---
 
