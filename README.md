@@ -28,7 +28,7 @@ Lists of what I organized & recorded :
 - [**Gradient Descent in Classification**](https://blog.naver.com/zetmond/223459265542)
 - [**Mathematical flow of K-Classification**](https://blog.naver.com/zetmond/223468061702)
 
-- [K-means(++) Clustering](https://blog.naver.com/zetmond/223515777149)
+- [**K-means(++) Clustering**](https://blog.naver.com/zetmond/223515777149)
   
 ...
   
