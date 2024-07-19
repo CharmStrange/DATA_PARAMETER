@@ -27,6 +27,8 @@ Lists of what I organized & recorded :
 - [**Maximum Likelihood Estimation & Logistic Regression (2)**](https://blog.naver.com/zetmond/223451856585)
 - [**Gradient Descent in Classification**](https://blog.naver.com/zetmond/223459265542)
 - [**Mathematical flow of K-Classification**](https://blog.naver.com/zetmond/223468061702)
+
+- [K-means(++) Clustering](https://blog.naver.com/zetmond/223515777149)
   
 ...
   
