@@ -4,7 +4,7 @@ The point is, deriving the best `PARAMETER`s.
 
 Lists of what I organized & recorded :
 
-### [My ML Bible](https://blog.naver.com/zetmond/223522028925)
+### [[My ML Bible](https://blog.naver.com/zetmond/223522028925)]
 
 #### Machine Learning & Deep Learning
 
