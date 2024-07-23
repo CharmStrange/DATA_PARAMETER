@@ -4,6 +4,8 @@ The point is, deriving the best `PARAMETER`s.
 
 Lists of what I organized & recorded :
 
+### [My ML Bible](https://blog.naver.com/zetmond/223522028925)
+
 #### Machine Learning & Deep Learning
 
 - [**Parametric Model & Non-parametric Model**](https://blog.naver.com/zetmond/223498514196)
@@ -35,7 +37,7 @@ Lists of what I organized & recorded :
 - ([presentation1](https://github.com/CharmStrange/Playground/blob/main/presentatation1.md))
 - ([presentation2](https://github.com/CharmStrange/Playground/blob/main/presentatation2.md))
 
---- d
+--- 
 
 #### Kalman Filter
 - [**System Model**](https://blog.naver.com/zetmond/223427423302)
