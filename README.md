@@ -19,6 +19,8 @@ Lists of what I organized & recorded :
 - [**Basic of Gradient Descent(LR)**](https://blog.naver.com/zetmond/223411497431)
 - [**Generalization of Gradient Descent(LR)**](https://blog.naver.com/zetmond/223414247169)
 - [**Analytical solution of Gradient Descent(LR)**](https://blog.naver.com/zetmond/223421603732)
+- [**Advanced Gradient Descent (1)**](https://blog.naver.com/zetmond/223519554015)
+- [**Advanced Gradient Descent (2)**](https://blog.naver.com/zetmond/223526132164)
 - [**K-fold Cross Validation**](https://blog.naver.com/zetmond/223437408700)
 - [**Regularization of Linear Regression**](https://blog.naver.com/zetmond/223441770803)
 
