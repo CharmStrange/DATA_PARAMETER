@@ -10,6 +10,7 @@ Lists of what I organized & recorded :
 
 - [**Parametric Model & Non-parametric Model**](https://blog.naver.com/zetmond/223498514196)
 - [**Model Parameters & Hyper Parameters**](https://blog.naver.com/zetmond/223487145900)
+- [**Naive Bayes**]()
 - [**precision and recall & ROC curve**](https://blog.naver.com/zetmond/223500484807)
 
   
