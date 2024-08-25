@@ -10,7 +10,7 @@ Lists of what I organized & recorded :
 
 - [**Parametric Model & Non-parametric Model**](https://blog.naver.com/zetmond/223498514196)
 - [**Model Parameters & Hyper Parameters**](https://blog.naver.com/zetmond/223487145900)
-- [**Naive Bayes**]()
+- [**Naive Bayes**](https://blog.naver.com/zetmond/223544929979)
 - [**precision and recall & ROC curve**](https://blog.naver.com/zetmond/223500484807)
 
   
@@ -34,6 +34,7 @@ Lists of what I organized & recorded :
 - [**Gradient Descent in Classification**](https://blog.naver.com/zetmond/223459265542)
 - [**Mathematical flow of K-Classification**](https://blog.naver.com/zetmond/223468061702)
 - [**K-means Clustering**](https://blog.naver.com/zetmond/223515777149)
+- [**Cluster Analysis**]()
   
 ...
   
