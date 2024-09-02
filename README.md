@@ -60,10 +60,9 @@ Lists of what I organized & recorded :
 - [**Jacobian Matrix**](https://blog.naver.com/zetmond/223472246240)
 
 ---
----
----
-references 
-- https://wikidocs.net/book/7887
-- [Deep Learning Bible](https://github.com/CharmStrange/PARAMETER/blob/main/Ian%20Goodfellow%2C%20Yoshua%20Bengio%2C%20Aaron%20Courville%20-%20Deep%20Learning%20(2017%2C%20MIT)%20(1).pdf)
-- [Deep Learning with TensorFlow](https://www.boostcourse.org/ai212/joinLectures/25072)
-- and lots of informations on google / Wikipedia / etc
+
+#### Data Flow
+- []()
+- []()
+- []()
+- []()
