@@ -4,15 +4,13 @@ The point is, deriving the best `PARAMETER`s.
 
 Lists of what I organized & recorded :
 
-### [[My ML Bible](https://blog.naver.com/zetmond/223522028925)]
-
 #### Machine Learning & Deep Learning
 
 - [**Parametric Model & Non-parametric Model**](https://blog.naver.com/zetmond/223498514196)
 - [**Model Parameters & Hyper Parameters**](https://blog.naver.com/zetmond/223487145900)
 - [**Naive Bayes**](https://blog.naver.com/zetmond/223544929979)
 - [**precision and recall & ROC curve**](https://blog.naver.com/zetmond/223500484807)
-
+- [**How to draw ROC Curve... and What is AUC?**](https://blog.naver.com/zetmond/223616524658)
   
 ...
 
@@ -35,6 +33,7 @@ Lists of what I organized & recorded :
 - [**Mathematical flow of K-Classification**](https://blog.naver.com/zetmond/223468061702)
 - [**K-means Clustering**](https://blog.naver.com/zetmond/223515777149)
 - [**Cluster Analysis**](https://blog.naver.com/zetmond/223548248978)
+- [**Regression VS Classification**](https://blog.naver.com/zetmond/223608129750)
   
 ...
   
