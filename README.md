@@ -61,7 +61,7 @@ Lists of what I organized & recorded :
 ---
 
 #### Data Flow
-- [PCA](https://blog.naver.com/zetmond/223681622211)
-- [LDA](https://blog.naver.com/zetmond/223684985416)
+- [**PCA**](https://blog.naver.com/zetmond/223681622211)
+- [**LDA**](https://blog.naver.com/zetmond/223684985416)
 - []()
 - []()
